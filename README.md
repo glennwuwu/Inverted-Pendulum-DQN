@@ -16,9 +16,13 @@ The code includes implementations for both DQN and DDQN agents, along with a Q N
     
 ## Results
 
-- The project includes functionality for saving and loading trained models.
-- Episode rewards and losses are logged for analysis.
-- Evaluation of the trained agent's performance is supported.
+![](img/dqn-target-episode.gif)
+
+|Model|100-Episode Average (Total) Reward|
+|---|---|
+|DQN with Target (9 Actions, $\alpha=0.005$, $\gamma=0.98$) |$-137.71 \pm 6.80$|
+
+Model weights are included.
 
 ## License
 
