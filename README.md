@@ -24,6 +24,11 @@ The code includes implementations for both DQN and DDQN agents, along with a Q N
 
 Model weights are included.
 
+![](img/Performance_Curve.png)
+
+![](img/State_Q_Values.png)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
