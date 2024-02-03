@@ -13,15 +13,7 @@ The code includes implementations for both DQN and DDQN agents, along with a Q N
     ```bash
     pip install -r requirements.txt
     ```
-
-2. Run the main script:
-
-    ```bash
-    python main.py
-    ```
-
-3. Adjust hyperparameters and settings as needed.
-
+    
 ## Results
 
 - The project includes functionality for saving and loading trained models.
